@@ -128,12 +128,12 @@
         const modalContent = document.getElementById('modal-content');
 
         const dadesRegals = [
-            { nom: "FUNDA NINTENDO", urlTextura: "https://m.media-amazon.com/images/I/81fu1Gei7VL._AC_SX342_SY445_QL70_ML2_.jpg", urlAmazon: "https://www.amazon.es/HEYSTOP-Accesorio-Transporte-Protector-Apretones/dp/B07MR496WN/", escala: 2.0, descripcio: "Funda de transport per a Nintendo Switch." },
-            { nom: "JBL GO 4 NEGRO", urlTextura: "https://m.media-amazon.com/images/I/71HdLDJEEUL._AC_SY300_SX300_QL70_ML2_.jpg", urlAmazon: "https://www.amazon.es/JBL-inal%C3%A1mbrico-Bluetooth-resistente-reproducci%C3%B3n/dp/B0CX5C6WP3/", escala: 1.5, descripcio: "Altaveu portàtil JBL GO 4." },
-            { nom: "ADAPTADOR JACK", urlTextura: "https://m.media-amazon.com/images/I/61ShlRX2ipL._AC_SX679_.jpg", urlAmazon: "https://www.amazon.es/YMOO-Transmisor-Transmisi%C3%B3n-Smartphone-Auriculares/dp/B0BBZZXQTL", escala: 1.2, descripcio: "Adaptador Bluetooth cotxe." },
-            { nom: "BASE XBOX X", urlTextura: "https://m.media-amazon.com/images/I/61g+CesQPAL._AC_SX679_.jpg", urlAmazon: "https://www.amazon.es/vertical-ventilador-estaci%C3%B3n-recargables-auriculares/dp/B08VNNSNPB", escala: 2.3, descripcio: "Base de càrrega Xbox." },
-            { nom: "ADOPCIÓ GAT", urlTextura: "https://cdn.pixabay.com/photo/2023/06/29/12/28/cats-8096304_1280.jpg", urlAmazon: "https://ajuntament.barcelona.cat/benestaranimal/es/centro-de-acogida-de-animales-de-compania-caacb", escala: 1.8, descripcio: "Adopta un amic!" },
-            { nom: "SAMSUNG WATCH", urlTextura: "https://m.media-amazon.com/images/I/51iEor5RZLL._AC_SX679_.jpg", urlAmazon: "https://www.amazon.es/Samsung-Bluetooth-Smartwatch-Procesador-Seguimiento/dp/B0FCGDMRLL/", escala: 1.0, descripcio: "Galaxy Watch 8 LTE." }
+            { nom: "FUNDA NINTENDO", urlTextura: "https://m.media-amazon.com/images/I/81fu1Gei7VL._AC_SX342_SY445_QL70_ML2_.jpg", urlAmazon: "https://www.amazon.es/HEYSTOP-Accesorio-Transporte-Protector-Apretones/dp/B07MR496WN/", escala: 10.0, descripcio: "Funda de transport per a Nintendo Switch." },
+            { nom: "JBL GO 4 NEGRO", urlTextura: "https://m.media-amazon.com/images/I/71HdLDJEEUL._AC_SY300_SX300_QL70_ML2_.jpg", urlAmazon: "https://www.amazon.es/JBL-inal%C3%A1mbrico-Bluetooth-resistente-reproducci%C3%B3n/dp/B0CX5C6WP3/", escala: 10.0, descripcio: "Altaveu portàtil JBL GO 4." },
+            { nom: "ADAPTADOR JACK", urlTextura: "https://m.media-amazon.com/images/I/61ShlRX2ipL._AC_SX679_.jpg", urlAmazon: "https://www.amazon.es/YMOO-Transmisor-Transmisi%C3%B3n-Smartphone-Auriculares/dp/B0BBZZXQTL", escala: 10.0, descripcio: "Adaptador Bluetooth cotxe." },
+            { nom: "BASE XBOX X", urlTextura: "https://m.media-amazon.com/images/I/61g+CesQPAL._AC_SX679_.jpg", urlAmazon: "https://www.amazon.es/vertical-ventilador-estaci%C3%B3n-recargables-auriculares/dp/B08VNNSNPB", escala: 10.0, descripcio: "Base de càrrega Xbox." },
+            { nom: "ADOPCIÓ GAT", urlTextura: "https://cdn.pixabay.com/photo/2023/06/29/12/28/cats-8096304_1280.jpg", urlAmazon: "https://ajuntament.barcelona.cat/benestaranimal/es/centro-de-acogida-de-animales-de-compania-caacb", escala: 10.0, descripcio: "Adopta un amic!" },
+            { nom: "SAMSUNG WATCH", urlTextura: "https://m.media-amazon.com/images/I/51iEor5RZLL._AC_SX679_.jpg", urlAmazon: "https://www.amazon.es/Samsung-Bluetooth-Smartwatch-Procesador-Seguimiento/dp/B0FCGDMRLL/", escala: 10.0, descripcio: "Galaxy Watch 8 LTE." }
         ];
 
         function init() {
