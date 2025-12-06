@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <!-- Viewport crític per a aplicacions mòbils (evita zoom i scroll elàstic) -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
-    <title>Regals 3D - Mòbil</title>
+    <title>Regals 3D - Versió Mòbil</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
     <style>
