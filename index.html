@@ -159,7 +159,7 @@
             playerDirection.x = Number(moveRight) - Number(moveLeft);
             playerDirection.normalize();
             if (moveForward || moveBackward) playerVelocity.z -= playerDirection.z * speed * 60.0 * delta;
-            if (moveLeft || moveRight) playerVelocity.x -= playerDirection.x * speed * 60.0 * delta;
+            if (moveRight || moveLeft) playerVelocity.x -= playerDirection.x * speed * 60.0 * delta;
             controls.translateX(playerVelocity.x * delta);
             controls.translateZ(playerVelocity.z * delta);
             controls.position.y = 1.7; 
